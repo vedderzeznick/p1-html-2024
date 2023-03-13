@@ -1,6 +1,6 @@
 # Página HTML estática
 
-Se trata de hacer una página web (no una _app_) con cierta complejidad, en un solo documento (más estilos) que tenga bastante estructura y un diseño lo mejor posible (según tu destreza, claro). La web tiene que hacerte investigar formas de hacer ciertas cosas que hagas por primera vez (si ya sabes HTML y CSS, aprovecha para ponerte a prueba con algo nuevo: grids, animaciones en CSS, etc.).
+Se trata de hacer una página web (no una _app_) con cierta complejidad, en un solo documento (más estilos) que tenga bastante estructura y un diseño lo mejor posible (según la destreza de cada uno). La web tiene que hacerte investigar formas de hacer ciertas cosas que hagas por primera vez. Si es la primera vez que usas HTML, haz algo que no sea demasiado difícil, pero si ya sabes HTML y CSS, aprovecha para ponerte a prueba con algo nuevo: grids, animaciones en CSS, etc.
 
 El tema de la página es libre, pero he aquí algunas sugerencias:
 
@@ -14,6 +14,5 @@ El tema de la página es libre, pero he aquí algunas sugerencias:
 
 Para hacer esta práctica tienes que:
 - Hacer un fork de este repositorio.
-- Trabajar en tu *fork* haciendo commits regularmente (una práctica que aparece entera en un solo commit podrá tener una nota muy baja).
+- Trabajar en tu *fork* haciendo commits regularmente (una práctica que aparece entera en un solo commit tendrá una nota muy baja o cero, hay que enseñar el proceso intermedio).
 - Al finalizar, descarga un ZIP y entrega en el Campus Online de UPC School (habrá una tarea para ello).
-
