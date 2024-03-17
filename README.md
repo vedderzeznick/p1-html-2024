@@ -16,3 +16,7 @@ Para hacer esta práctica tienes que:
 - Hacer un fork de este repositorio.
 - Trabajar en tu *fork* haciendo commits regularmente (una práctica que aparece entera en un solo commit tendrá una nota muy baja o cero, hay que enseñar el proceso intermedio).
 - Al finalizar, descarga un ZIP y entrega en el Campus Online de UPC School (habrá una tarea para ello).
+
+
+## Para correrlo
+se podria usar live server que es la herramienta que he usado para desarrollarlo, desde el archivo index.html
